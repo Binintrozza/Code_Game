@@ -49,6 +49,8 @@ local Codes = {
 	"SHADOWPORTALFIXED",
 	"UPDATE2",
 	"20MVISITS",
-	"80KLIKES"
+	"80KLIKES",
+	"RANKUP",
+	"90KLIKES"
 }
 return Codes
