@@ -54,6 +54,9 @@ local Codes = {
 	"90KLIKES",
 	"30MVISITS",
 	"29MVISITS",
-	"UPDATE3"
+	"UPDATE3",
+	"UPDATE3PT2ADDITIONS",
+	"UPDATE3PT2",
+	"110KLIKES"
 }
 return Codes
