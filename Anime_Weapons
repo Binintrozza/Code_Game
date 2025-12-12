@@ -16,6 +16,8 @@ local Codes = {
 	"110KLIKES",
 	"FREERESETTOKENSFORYOUALL",
 	"UPDATE3PT3",
-	"140KFAVS"
+	"140KFAVS",
+	"UPDATE4",
+	"37MVISITS"
 }
 return Codes
