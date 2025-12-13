@@ -1,5 +1,8 @@
 local tables = {
   "RELEASE",
-  "SORRYFORDELAY"
+  "SORRYFORDELAY",
+  "MAGNET",
+  "EARLYACESS",
+  "SORRYFORALL"
 }
 return tables
