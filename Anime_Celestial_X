@@ -1,3 +1,5 @@
 local tables = {
+  "RELEASE",
+  "SORRYFORDELAY"
 }
 return tables
