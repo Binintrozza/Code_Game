@@ -14,5 +14,13 @@ local tables = {
     "FreeChikara",
     "FreeChikara2",
     "FreeChikara3",
+    "HappyNewYear",
+    "50kLikes",
+    "10MVisits",
+    "NewBloodlines",
+    "NewSpecials",
+    "MinorBugs",
+    "BadActors",
+    "JanuaryIncident",
 }
 return tables
