@@ -22,5 +22,7 @@ local tables = {
     "MinorBugs",
     "BadActors",
     "JanuaryIncident",
+    "WednesdayBoostsCode",
+    "WednesdayYenCode"
 }
 return tables
