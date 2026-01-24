@@ -23,6 +23,17 @@ local tables = {
     "BadActors",
     "JanuaryIncident",
     "WednesdayBoostsCode",
-    "WednesdayYenCode"
+    "WednesdayYenCode",
+    "KuramaUpdateSoon",
+    "ThursdayBoostsNewCode",
+    "ThursdayYenNewCode",
+    "NewFridayBoostsCode",
+    "NewFridayYenCode",
+    "175KLIKES",
+    "KURAMAUPDATE",
+    "FIGHTINGPASS",
+    "BIGCHIKARACODE",
+    "SMALLCHIKARACODE",
+    "200KLIKES"
 }
 return tables
