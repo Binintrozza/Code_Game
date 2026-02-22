@@ -1,0 +1,6 @@
+local tables = {
+  "RELEASE",
+  "5KLIKES",
+  "SHUTDOWN",
+}
+return tables
