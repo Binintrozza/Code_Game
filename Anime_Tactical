@@ -1,8 +1,8 @@
 local tables = {
-  "RELEASE",
-  "SORRYFORDELAY",
-  "MAGNET",
-  "EARLYACESS",
-  "SORRYFORALL"
+  "ATSForever",
+  "4D2TKFSZRC",
+  "#BestSimOfAllTime",
+  "ThxForSupport",
+  "RELEASED"
 }
 return tables
