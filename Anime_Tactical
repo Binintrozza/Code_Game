@@ -3,6 +3,10 @@ local tables = {
   "4D2TKFSZRC",
   "#BestSimOfAllTime",
   "ThxForSupport",
+  "Justkidding_thisisrealcode",
+  "SORRYFORAUTOSUMMONS",
+  "NoMoreBugsPls",
+  "Sorry4Delay",
   "RELEASED!"
 }
 return tables
