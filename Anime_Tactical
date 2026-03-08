@@ -8,6 +8,12 @@ local tables = {
   "NoMoreBugsPls",
   "Sorry4Delay",
   "1MVISITLETSGOO",
-  "RELEASED!"
+  "ATSSOCIETY",
+  "SORRYFORDELAY2",
+  "UPDATE1ISREAL",
+  "SORRYFORDELAY1",
+  "UPDATE1BUGS",
+  "UPDATE1BUGS",
+  "1MVISITLETSGOO"
 }
 return tables
