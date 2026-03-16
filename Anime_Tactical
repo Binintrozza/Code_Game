@@ -16,5 +16,9 @@ local tables = {
   "UPDATE1BUGS",
   "1MVISITLETSGOO",
   "FIXFIXFIX",
+  "SRY4DELAY",
+  "HAPPYUPD2",
+  "THANKSFOR10MVISIT",
+  "SOSORRYFORBUGS",
 }
 return tables
