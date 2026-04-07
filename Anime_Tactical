@@ -28,5 +28,5 @@ local tables = {
   "FATEISNEXT",
   "FREEMYTHIC",
   "HBDAYCHXMEI",
-  "SPRINGEVENT",}
+  "SPRINGEVENT"}
 return tables
