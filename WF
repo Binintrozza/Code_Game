@@ -79,6 +79,11 @@ local tables = {
     "15KFAVORITES!!!",
     "20KFAVORITESYAY!!",
     "DAMN25KFAVORITES!!",
+    "13KPLAYERSISALOT!",
+    "17.5KLIKES?!",
+    "6MILLIONVISITSYO!!!",
+    "7MILLIONVISITSYAY!?!",
+    "YEAAA30KFAVORITES!!",
 }
 
 return tables
