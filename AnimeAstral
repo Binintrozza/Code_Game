@@ -1,0 +1,10 @@
+local codes = {
+    "RELEASE",
+    "4KPLAYERS",
+    "3.5KPLAYERS",
+    "2.5KPLAYERS",
+    "1KPLAYERS",
+    "SORRYFORSHUTDOWN",
+}
+
+return codes
