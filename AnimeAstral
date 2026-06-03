@@ -1,10 +1,20 @@
 local codes = {
     "RELEASE",
-    "4KPLAYERS",
-    "3.5KPLAYERS",
-    "2.5KPLAYERS",
     "1KPLAYERS",
+    "2.5KPLAYERS",
+    "3.5KPLAYERS",
+    "4KPLAYERS",
+    "5KPLAYERS",
+    "6KPLAYERS",
+    "6.5KPLAYERS",
+    "7KPLAYERS",
     "SORRYFORSHUTDOWN",
+    "SORRYFORSHUTDOWN2",
+    "100KVISITS",
+    "200KVISITS",
+    "500KVISITS",
+    "20KMEMBERS",
+    "EXCHANGE",
 }
 
 return codes
