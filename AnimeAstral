@@ -1,4 +1,5 @@
 local codes = {
+    -- Xuất phát & Cột mốc người chơi (Players)
     "RELEASE",
     "1KPLAYERS",
     "2.5KPLAYERS",
@@ -8,13 +9,30 @@ local codes = {
     "6KPLAYERS",
     "6.5KPLAYERS",
     "7KPLAYERS",
-    "SORRYFORSHUTDOWN",
-    "SORRYFORSHUTDOWN2",
+    "10KPLAYERS",
+    "13KPLAYERS",
+
+    -- Lượt thích (Likes)
+    "1KLIKES",
+    "2.5KLIKES",
+    "5KLIKES",
+
+    -- Lượt truy cập & Thành viên (Visits & Members)
     "100KVISITS",
     "200KVISITS",
     "500KVISITS",
+    "1MVISITS",
+    "1.5MVISITS",
     "20KMEMBERS",
+
+    -- Sự kiện & Đổi thưởng (Events & Exchange)
     "EXCHANGE",
+
+    -- Đền bù & Cập nhật (Apologies & Updates)
+    "SORRYFORSHUTDOWN",
+    "SORRYFORSHUTDOWN2",
+    "SORRYFORDELAY",
+    "UPDATE1",
 }
 
 return codes
