@@ -15,11 +15,12 @@ local codes = {
     "18KPLAYERS",
     "19KPLAYERS",
     "20KPLAYERS",
-    "24KPLAYERS",     -- NEW
-    "25KPLAYERS",     -- NEW
-    "27.5KPLAYERS",   -- NEW
-    "28KPLAYERS",     -- NEW
-    "GO30K?",         -- NEW
+    "24KPLAYERS",
+    "25KPLAYERS",
+    "27.5KPLAYERS",
+    "28KPLAYERS",
+    "30KPLAYERS",      -- NEW
+    "GO30K?",
 
     -- Lượt thích & Yêu thích (Likes & Favorites)
     "1KLIKES",
@@ -36,25 +37,28 @@ local codes = {
     "1.5MVISITS",
     "3MVISITS",
     "3.5MVISITS",
-    "6.5MVISITS",     -- NEW
-    "7MVISITS",       -- NEW
+    "6.5MVISITS",
+    "7MVISITS",
+    "7.5MVISITS",     -- NEW
+    "8MVISITS",       -- NEW
     "20KMEMBERS",
 
     -- Sự kiện, Đổi thưởng & Cân bằng (Events, Exchange & Balances)
     "EXCHANGE",
     "3KEVENT",
     "NPCNERF",
-    "BATTLEPASS",     -- NEW
+    "BATTLEPASS",
 
     -- Đền bù & Cập nhật (Apologies & Updates)
     "SORRYFORSHUTDOWN",
     "SORRYFORSHUTDOWN2",
-    "SORRYFORSHUTDOWN5", -- NEW
+    "SORRYFORSHUTDOWN5",
+    "SORRYFORSHUTDOWN6", -- NEW
     "SORRYFORDELAY",
-    "SORRYFORDELAY2",    -- NEW
+    "SORRYFORDELAY2",
     "UPDATE1",
     "UPDATE1.5",
-    "UPDATE2",        -- NEW
+    "UPDATE2",
 }
 
 return codes
