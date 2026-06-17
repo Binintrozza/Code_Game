@@ -19,8 +19,8 @@ local codes = {
     "25KPLAYERS",
     "27.5KPLAYERS",
     "28KPLAYERS",
-    "30KPLAYERS",      -- NEW
-    "GO30K?",
+    "30KPLAYERS",       -- NEW
+    "GO30K?",          -- NEW
 
     -- Lượt thích & Yêu thích (Likes & Favorites)
     "1KLIKES",
@@ -39,8 +39,8 @@ local codes = {
     "3.5MVISITS",
     "6.5MVISITS",
     "7MVISITS",
-    "7.5MVISITS",     -- NEW
-    "8MVISITS",       -- NEW
+    "7.5MVISITS",      -- NEW
+    "8MVISITS",        -- NEW
     "20KMEMBERS",
 
     -- Sự kiện, Đổi thưởng & Cân bằng (Events, Exchange & Balances)
