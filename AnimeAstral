@@ -19,8 +19,8 @@ local codes = {
     "25KPLAYERS",
     "27.5KPLAYERS",
     "28KPLAYERS",
-    "30KPLAYERS",       -- NEW
-    "GO30K?",          -- NEW
+    "30KPLAYERS",
+    "GO30K?",
 
     -- Lượt thích & Yêu thích (Likes & Favorites)
     "1KLIKES",
@@ -28,6 +28,8 @@ local codes = {
     "5KLIKES",
     "8KLIKES",
     "4KFAVS",
+    "15KLIKES",          -- NEW
+    "20KLIKES",          -- NEW
 
     -- Lượt truy cập & Thành viên (Visits & Members)
     "100KVISITS",
@@ -39,26 +41,38 @@ local codes = {
     "3.5MVISITS",
     "6.5MVISITS",
     "7MVISITS",
-    "7.5MVISITS",      -- NEW
-    "8MVISITS",        -- NEW
+    "7.5MVISITS",
+    "8MVISITS",
+    "9.5MVISITS",        -- NEW
+    "10MVISITS",         -- NEW
+    "15MVISITS",         -- NEW (Sửa từ lỗi chính tả 15MVISTS)
     "20KMEMBERS",
 
-    -- Sự kiện, Đổi thưởng & Cân bằng (Events, Exchange & Balances)
+    -- Sự kiện, Đổi thưởng & Hệ thống (Events, Exchange & Systems)
     "EXCHANGE",
     "3KEVENT",
     "NPCNERF",
     "BATTLEPASS",
+    "MOUNTS",            -- NEW
+    "TRACKER",           -- NEW
+    "GRIMOIRES",         -- NEW
+    "WAIFU",             -- NEW
 
     -- Đền bù & Cập nhật (Apologies & Updates)
     "SORRYFORSHUTDOWN",
     "SORRYFORSHUTDOWN2",
     "SORRYFORSHUTDOWN5",
-    "SORRYFORSHUTDOWN6", -- NEW
+    "SORRYFORSHUTDOWN6",
+    "SORRYFORSHUTDOWN7",  -- NEW
+    "SORRYFORGRIMOIRES",  -- NEW
     "SORRYFORDELAY",
     "SORRYFORDELAY2",
+    "SORRYFORDELAY3",    -- NEW
     "UPDATE1",
     "UPDATE1.5",
     "UPDATE2",
+    "UPDATE2.5",         -- NEW
+    "UPDATE3",           -- NEW
 }
 
 return codes
